@@ -7,7 +7,7 @@ Podemos falar atráves do meu E-mail 👉 ✉️ **davi_andrade94@outlook.com** 
 
 Você pode me seguir no GitHub, onde irei expor meus principais códigos/projetos que irei desenvolver ao longo da carreira, e também me seguir nas redes sociais
 
-[![Davi Luis Instagram](https://img.shields.io/badge/Instagram-Davi-pink?logo=instagram&logoColor=white)](https://www.instagram.com/davilss_94/) [![Davi Luis LinkedIn](https://img.shields.io/badge/LinkedIn-Davi-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/davi-luis-961aa42b5)
+[![Davi Luis Instagram](https://img.shields.io/badge/Instagram-Davi-pink?logo=instagram&logoColor=white)](https://www.instagram.com/davilss_94/) [![Davi Luis LinkedIn](https://img.shields.io/badge/LinkedIn-Davi-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-luis-961aa42b5/)
 
 <br/>
 
