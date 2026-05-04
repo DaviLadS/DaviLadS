@@ -1,30 +1,17 @@
-# 🖥️ Davi Luis
+# Olá, me chamo Davi Luis 👋
+**Estudante de Engenharia de Software || Técnico Administrativo**
 
-**`Desenvolvedor Iniciante`**
+Podemos falar atráves do meu E-mail 👉 ✉️ **davi_andrade94@outlook.com** para uma Colaboração/Projeto ou algo de interesse.
 
-Me chamo Davi Luis Andrade dos Santos, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na Escola Maria Leda Fernandes Brigo, com o curso técnico em Administração na Escola Senai Celso Charuri. Atualmente, estou cursando Engenharia de Software no Centro Universitário Eniac. Sou entusiasta de tecnologia e compartilho meu conhecimento através do próprio GitHub "[DaviLadS](https://github.com/DaviLadS)", onde compartilho e desenvolvo projetos web.
+## 🔗 Sou um Desenvolvedor Iniciante 
 
-<p align="left"> 
-    <a href="https://github.com/DaviLadS?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/DaviLadS?color=cc8e00&style=for-the-badge&labelColor=b8860b&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/DaviLadS?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/DaviLadS?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Você pode me seguir no GitHub, onde irei expor meus principais códigos/projetos que irei desenvolver ao longo da carreira, e também me seguir nas redes sociais
 
----
+[![Davi Luis Instagram](https://img.shields.io/badge/Instagram-Davi-pink?logo=instagram&logoColor=white)](https://www.instagram.com/davilss_94/) [![Davi Luis LinkedIn](https://img.shields.io/badge/LinkedIn-Davi-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/davi-luis-961aa42b5)
 
-### 🤖 Linguagens e Tecnologias
+<br/>
 
+# 💻 Conjuntos de Tecnologias:
 <img 
     align="left" 
     alt="HTML"
@@ -41,6 +28,7 @@ Me chamo Davi Luis Andrade dos Santos, tenho 19 anos e sou natural de São Paulo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -67,25 +55,76 @@ Me chamo Davi Luis Andrade dos Santos, tenho 19 anos e sou natural de São Paulo
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
+<img 
     align="left" 
-    alt="GitHub Status" 
-    height="200" 
+    alt="Language C" 
+    title="Language C"
+    width="30px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=DaviLadS&show_icons=true&theme=nord&include_all_commits=true&locale=pt-br" 
-  />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"        
+/>
 
 <img 
-      align="left" 
-      alt="GitHub Status" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviLadS&theme=nord&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+    align="left" 
+    alt="StackOverflow" 
+    title="StackOverflow"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg"        
+/>
 
-</p>
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"     
+/>
+
+<img 
+    align="left" 
+    alt="ArchLinux" 
+    title="ArchLinux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Windows" 
+    title="Windows"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
+/>
+
+<br/>
+<br/>
+<br/>
+
+
+# 📊 GitHub Status:
+
+<div align="left">
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaviLadS&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaviLadS&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaviLadS&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaviLadS&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaviLadS&theme=radical&utcOffset=-3">
+
+</div>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviLadS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=DaviLadS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=DaviLadS&theme=dark&hide_border=false)
+
+
+</div><br>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
