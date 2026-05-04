@@ -66,15 +66,6 @@ Você pode me seguir no GitHub, onde irei expor meus principais códigos/projeto
 
 <img 
     align="left" 
-    alt="StackOverflow" 
-    title="StackOverflow"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg"        
-/>
-
-<img 
-    align="left" 
     alt="Linux" 
     title="Linux"
     width="30px" 
